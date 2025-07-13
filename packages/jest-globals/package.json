@@ -13,7 +13,7 @@
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "dependencies": {
-    "@jest/environment": "^26.1.0",
+    "@jest/environment": "^25.0.0",
     "@jest/types": "^26.1.0",
     "expect": "^26.1.0"
   },
