@@ -13,7 +13,7 @@
     "@jest/transform": "^26.1.0",
     "@jest/types": "^26.1.0",
     "jest-config": "^26.1.0",
-    "jest-runtime": "^26.1.0",
+    "jest-runtime": "^0.0.0",
     "jest-validate": "^26.1.0",
     "repl": "^0.1.3",
     "yargs": "^15.3.1"
