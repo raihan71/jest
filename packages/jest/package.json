@@ -7,7 +7,7 @@
   "dependencies": {
     "@jest/core": "^26.1.0",
     "import-local": "^3.0.2",
-    "jest-cli": "^26.1.0"
+    "jest-cli": "^0.1.0"
   },
   "bin": "./bin/jest.js",
   "engines": {
