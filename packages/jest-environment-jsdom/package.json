@@ -16,7 +16,7 @@
     "@types/node": "*",
     "jest-mock": "^26.1.0",
     "jest-util": "^26.1.0",
-    "jsdom": "^16.2.2"
+    "jsdom": "^16.6.0"
   },
   "devDependencies": {
     "@types/jsdom": "^16.2.1"
