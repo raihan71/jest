@@ -12,9 +12,9 @@
   "dependencies": {
     "@jest/test-result": "^26.1.0",
     "graceful-fs": "^4.2.4",
-    "jest-haste-map": "^26.1.0",
+    "jest-haste-map": "^0.0.0",
     "jest-runner": "^26.1.0",
-    "jest-runtime": "^26.1.0"
+    "jest-runtime": "^0.0.0"
   },
   "devDependencies": {
     "@types/graceful-fs": "^4.1.3"
