@@ -9,7 +9,7 @@
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "babel-plugin-jest-hoist": "^26.1.0",
+    "babel-plugin-jest-hoist": "^1.0.0",
     "babel-preset-current-node-syntax": "^0.1.2"
   },
   "peerDependencies": {
